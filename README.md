@@ -5,7 +5,7 @@ Calculadora no terminal desenvolvida em Python com operações básicas, avança
 ## 📸 Preview
 # 🧮 Calculadora — Operações e Conversões
 
-> Calculadora completa no terminal com operações básicas, avançadas, conversor de unidades e histórico exportável — desenvolvida em Python puro.
+> Calculadora completa no terminal com operações básicas, avançadas, conversor de unidades e histórico exportável. (Desenvolvida em Python)
 
 ---
 
