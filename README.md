@@ -32,15 +32,14 @@ Projeto desenvolvido para praticar organização de código em módulos, tratame
 ║          🧮  CALCULADORA  🧮        ║
 ╚══════════════════════════════════════╝
 
-  Cálculos realizados: 3
+        Cálculos realizados: 3
 
-  1. Operações Básicas
-  2. Operações Avançadas
-  3. Conversor de Unidades
-  4. Ver Histórico
-  0. Sair
+         1. Operações Básicas
+         2. Operações Avançadas
+         3. Conversor de Unidades
+         4. Ver Histórico
+         0. Sair
 ```
-
 ---
 
 ## 🚀 Como executar
@@ -67,17 +66,17 @@ Feito com 💜 por [Rosário Dutra](https://github.com/rosariodutra) · Analista
 
 ```
 ╔══════════════════════════════════════╗
-║          🧮  CALCULADORA  🧮           ║
-║      github.com/rosariodutra          ║
+║          🧮  CALCULADORA  🧮        ║
+║      github.com/rosariodutra         ║
 ╚══════════════════════════════════════╝
 
-  Cálculos realizados: 3
+          Cálculos realizados: 3
 
-  1. Operações Básicas
-  2. Operações Avançadas
-  3. Conversor de Unidades
-  4. Ver Histórico
-  0. Sair
+          1. Operações Básicas
+          2. Operações Avançadas
+          3. Conversor de Unidades
+          4. Ver Histórico
+          0. Sair
 ```
 
 ## ✨ Funcionalidades
