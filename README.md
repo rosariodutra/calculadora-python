@@ -29,7 +29,7 @@ Projeto desenvolvido para praticar organização de código em módulos, tratame
 
 ```
 ╔══════════════════════════════════════╗
-║          🧮  CALCULADORA  🧮           ║
+║          🧮  CALCULADORA  🧮        ║
 ╚══════════════════════════════════════╝
 
   Cálculos realizados: 3
